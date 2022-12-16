@@ -41,7 +41,7 @@ python tracking/analysis_results.py # need to modify tracker configs and names
 ```
 - UTB180
 
-Put the UTB1180 raw results  on `$PROJECT_ROOT$/output/test/tracking_results/`
+Put the UTB180 raw results  on `$PROJECT_ROOT$/output/test/tracking_results/`
 
 ```
 python tracking/analysis_results.py # need to modify tracker configs and names
